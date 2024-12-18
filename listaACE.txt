@@ -137,6 +137,10 @@ acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 acestream://f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
 #EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Copa 720  b51f
 acestream://b51f2d9a15b6956a44385b6be531bcabeb099d9d
+#EXTINF:-1 group-title="Otros" tvg-id="TELECINCO HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a907.png" ,Telecinco 1080  66a7
+acestream://66a7e4727bccce8ccc04e54861b06b62d89452fa
+#EXTINF:-1 group-title="Otros" tvg-id="TELECINCO HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a907.png" ,Telecinco 1080  47e6
+acestream://47e6dd48dd7c9705d07b13139b80e44683fd5eb1
 #EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,PPVP 1  6994
 acestream://6994af284ecab2996f9b140ef44b8da8bfee0006
 #EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,PPVP 4  7cf4
